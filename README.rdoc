@@ -3,14 +3,23 @@ by David Roberts, Courtney Wiggins, and Eric Shou
 
 CommuniCare is a web application designed to connect users in need of caretaking services for their loved ones with other users in the nearby community. Users can sign up as Primary Caregivers--those looking to find help from someone locally to take care of their loved one Users can also sign up as CommuniHelpers--those looking to help their community and provide caretaking services for those in need.
 
-Tech Stack:
+***A note about testing:
+This project was created via behavior driven development since had a such a small team and such a small timeline. RSpec tests were written after an MVP (minimum viable product) was delivered and are a work in progress (as of 1/26/16). Also, recently, all of my efforts have been primarily geared towards a freelance project for a personal client. So if you wish to see my most recent and best work, I'll direct you the Inventory Manager app that I've been working on (https://github.com/dfroberts2/inventory_manager).
+~David
 
+Tech Stack:
     Ruby on Rails
     Javascript/jQuery
     Bootstrap
+    CSS3
+    HTML5
+    
+Additional Technologies:
+    Twilio
+    Delayed Job
+    Simple Calendar
 
 Workflow:
-
     Pairing
     Agile
 Basic User Stories:
